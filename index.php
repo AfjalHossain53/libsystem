@@ -58,7 +58,7 @@
 	        				<table class="table table-bordered table-striped" id="booklist">
 			        			<thead>
 			        				<th>ISBN</th>
-			        				<th>Title</th>
+			        				<th>Afjal</th>
 			        				<th>Author</th>
 			        				<th>Status</th>
 			        			</thead>
